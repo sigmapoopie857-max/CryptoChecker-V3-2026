@@ -1,0 +1,16 @@
+# Crypto Checker - Git Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+
+# Sensitive Data
+input.txt
+/Found/
+/Results/
+config.json
+api_keys.dat
+proxies.txt
